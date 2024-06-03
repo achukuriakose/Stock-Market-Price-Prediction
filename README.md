@@ -4,8 +4,3 @@
 ![prediction](https://github.com/achukuriakose/Stock-Market-Price-Prediction/assets/140895572/37b257cd-3814-4f90-bb1d-eaf96c9a662d)
 ![output1](https://github.com/achukuriakose/Stock-Market-Price-Prediction/assets/140895572/79bf3dcb-0e2c-484f-942d-bfc6284bbb90)
 ![Uploading output2.png…]()
-
-
-
-
-![Uploading home page.png…]()
