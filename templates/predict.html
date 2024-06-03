@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Predict Stock Price</title>
+</head>
+<body>
+    <nav>
+        <a href="{{ url_for('index') }}">Home</a> |
+        <a href="{{ url_for('login') }}">Login</a> |
+        <a href="{{ url_for('register') }}">Register</a> |
+        <a href="{{ url_for('predict') }}">Predict Stock Price</a>
+    </nav>
+    <h1>Predict Stock Price</h1>
+    <form method="post" action="{{ url_for('predict') }}">
+        <label for="company">Company:</label>
+        <input type="text" id="company" name="company" required><br>
+        <label for="date">Date:</label>
+        <input type="date" id="date" name="date" required><br>
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>

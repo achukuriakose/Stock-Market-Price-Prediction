@@ -1,0 +1,5 @@
+Flask==2.0.2
+yfinance==0.1.63
+numpy==1.21.2
+streamlit==1.35.0
+pandas==1.21.2
